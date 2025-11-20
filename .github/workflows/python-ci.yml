@@ -6,7 +6,7 @@ on:
 
   push: 
 
-    branches: [__"main"__] 
+    branches: ["main"] 
 
   pull_request: 
 
